@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bobbyp42
+- 👀 I’m interested in expanding my skillset
+- 🌱 I’m currently learning SQL, R, and Python
+- 📫 How to reach me bobby42 at protonmail.com
